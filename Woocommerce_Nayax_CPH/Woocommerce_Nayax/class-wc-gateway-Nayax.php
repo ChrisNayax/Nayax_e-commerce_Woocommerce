@@ -3,8 +3,8 @@
  * Plugin Name: Nayax
  * Plugin URI: https://nayaxtest176217138.wpcomstaging.com/
  * Description: Process payment using base for woocommerce 2.x.
- * Version: 1.13
- * Author: Josh Daniel
+ * Version: 1.00
+ * Author: Chris Patsis-House
  * Author URI: https://nayaxtest176217138.wpcomstaging.com/
  */
  
