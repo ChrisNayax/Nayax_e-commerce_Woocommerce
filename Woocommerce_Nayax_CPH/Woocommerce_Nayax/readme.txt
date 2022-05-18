@@ -1,10 +1,9 @@
 === Plugin Name ===
-Contributors: Josh Daniel
+Contributors: Chris Patsis-House
 Company link: https://www.coriunder.com
 Tags: Coriunder, direct, redirect, form, woocommerce, woothemes
 Requires at least: 3.5.1
 Tested up to: 3.9.0
-Stable tag: 0.1.7.1
 
 WooCommerce PSP Direct Payment Gateway
 
@@ -12,7 +11,7 @@ WooCommerce PSP Direct Payment Gateway
 
 PSP Direct payment gateway for Woocommerce.  Once installed, you can configure this through Woocommerce Payment Gateways tab.
 
-Enable the payment gateway and apply your unique Merchant Number provided by PSP.
+Enable the payment gateway and apply your unique Merchant Number provided by Nayax.
 
 
 For direct (and not redirect) process method:
@@ -31,24 +30,14 @@ Installation :
 
 3. Activate the plugin through the 'Plugins' menu in WordPress.
 
-4. Goto Woocommerce -> Settings and select the Payment Gateways tab and click on PSP Direct just below the tabs.
+4. Goto Woocommerce -> Settings and select the Payments tab.
 
 Configure Gateway:
 
-1. Add your 'Merchant Number ' which would have been supplied by PSP.
+1. Add your 'Merchant Number ' which would have been supplied by Nayax.
 
 2. configure other processing options on this page
 
 == Frequently Asked Questions ==
 = Does it support 3D Secure =
-Yes it does, to enable it you first need to contact PSP and then set Process method to "Use PaymentPage Redirection".
-
-== Screenshots ==
-1. PSP Direct settings screen
-2. Customer payment page
-
-== Changelog ==
-= Version 0.9.0.0 - 25042014 =
-* Feature - Initial release
-= Version 0.9.0.5 - 04022016 =
-* Feature - small updates
+Yes it does, to enable it you first need to contact Nayax and then set Process method to "Use PaymentPage Redirection".
