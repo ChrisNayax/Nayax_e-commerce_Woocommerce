@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Nayax
- * Plugin URI: https://nayaxtest176217138.wpcomstaging.com/
+ * Plugin URI: https://github.com/ChrisNayax/Nayax_e-commerce_Woocommerce
  * Description: Process payment using base for woocommerce 2.x.
  * Version: 1.00
  * Author: Chris Patsis-House
